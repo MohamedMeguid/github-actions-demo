@@ -12,5 +12,3 @@ jobs:
         run: |
           node -v
           npm -v
-      - name: Test failed step
-        run: echho "To failure and beyond"
